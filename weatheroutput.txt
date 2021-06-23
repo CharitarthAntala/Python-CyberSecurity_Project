@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - VADODARA  || 23 Jun 2021 | 11:28:13 AM
+-------------------------------------------------------------
+Current temperature is: 31.98 deg C
+Current weather desc  : haze
+Current Humidity      : 66 %
+Current wind speed    : 3.09 kmph
